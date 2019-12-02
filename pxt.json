@@ -1,7 +1,7 @@
 {
     "name": "tools",
     "version": "0.0.1",
-    "description": "³o¬O±M¬°´ú¸Õ¥Îªºmicro:bit¿n¤ì",
+    "description": "é€™æ˜¯å°ˆç‚ºæ¸¬è©¦ç”¨çš„micro:bitç©æœ¨",
     "license": "MIT",
     "dependencies": {
         "core": "*"

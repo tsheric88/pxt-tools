@@ -1,7 +1,7 @@
 //% weight=0 color=#3CB371 icon="\uf0ad" block="Tools"
 namespace tools {
     /**
-    * ­pºâªø¤è§Î­±¿n¡A¨Ã¦^¶Ç
+    * è¨ˆç®—é•·æ–¹å½¢é¢ç©ï¼Œä¸¦å›å‚³
     */
     //% blockId="areaOfRectangle" block="area of rectangle length %length|width %width"
     //% blockGap=2 weight=0 blockExternalInputs=true
@@ -9,7 +9,7 @@ namespace tools {
         return length*width
     }
     /**
-    * ­pºâªø¤è§Î­±¿n¡A¤£¦^¶Ç¡A¥uÅã¥Ü¦bLED
+    * è¨ˆç®—é•·æ–¹å½¢é¢ç©ï¼Œä¸å›å‚³ï¼Œåªé¡¯ç¤ºåœ¨LED
     */
     //% blockId="ledOfRectangle" block="show area of rectangle length %length|width %width"
     //% blockGap=2 weight=1

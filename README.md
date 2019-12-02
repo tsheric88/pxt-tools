@@ -1,6 +1,6 @@
 # tools
 
-³o¬O±M¬°´ú¸Õ¥Îªºmicro:bit¿n¤ì
+é€™æ˜¯å°ˆç‚ºæ¸¬è©¦ç”¨çš„micro:bitç©æœ¨
 
 ## License
 
@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-tools=github:XXXXX/pxt-tools
+tools=github:lioujj/pxt-tools
 ```
