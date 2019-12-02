@@ -1,5 +1,5 @@
 {
-    "tools|block": "¤u¨ã",
-    "tools.areaOfRectangle|block": "ªø¤è§Î­±¿n ªø %length|¼e %width",
-    "tools.ledOfRectangle|block": "LEDÅã¥Üªø¤è§Î­±¿n ªø %length|¼e %width"
+    "tools|block": "å·¥å…·",
+    "tools.areaOfRectangle|block": "é•·æ–¹å½¢é¢ç© é•· %length|å¯¬ %width",
+    "tools.ledOfRectangle|block": "LEDé¡¯ç¤ºé•·æ–¹å½¢é¢ç© é•· %length|å¯¬ %width"
 }
